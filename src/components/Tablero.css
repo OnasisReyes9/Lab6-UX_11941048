@@ -1,0 +1,23 @@
+.tablero {
+    outline: 2px solid saddlebrown;
+}
+
+.fila {
+    height: 50px;
+}
+
+.board_cell {
+    width: 50px;
+    height: 50px;
+    outline: 1px solid saddlebrown;
+    background-color: lightgreen;
+    display: inline-block;
+}
+
+.snake {
+    background-color: slateblue;
+}
+
+.comida {
+    background-color: seagreen;
+}
